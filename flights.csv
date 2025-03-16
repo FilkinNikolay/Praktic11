@@ -1,0 +1,4 @@
+aircraftType,aircraftNumber,departure,arrival,crew
+"Boeing737,1234,2025-03-01 10:00,2025-03-01 12:30,Ivanov;Petrov"
+"AirbusA320,5678,2025-03-02 14:15,2025-03-02 17:45,Sidorov;Smirnov"
+"Boeing747,9012,2025-03-03 09:30,2025-03-03 13:00,Kuznetsov;Volkov"
